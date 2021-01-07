@@ -3,13 +3,12 @@ on: [push]
 jobs:
   template-sync:
     runs-on: ubuntu-latest
-    name: test template-sync 
+    name: test template-sync
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Template Sync 
+      - name: Template Sync
         uses: ./
-        id: template-sync 
+        id: template-sync
         with:
-          template: 'arlac77/template-esm-only'
-
+          template: "arlac77/template-esm-only"
