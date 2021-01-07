@@ -1,0 +1,9 @@
+name: 'Template Sync'
+description: 'sync repository with its template'
+inputs:
+  template: # id of input
+    description: 'name of the template repository'
+    required: false 
+runs:
+  using: 'node14'
+  main: 'index.mjs'
