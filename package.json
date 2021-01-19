@@ -9,6 +9,7 @@
   "description": "github action template-sync",
   "keywords": [
     "github",
+    "action",
     "template"
   ],
   "contributors": [
@@ -29,8 +30,7 @@
   "dependencies": {
     "@actions/core": "^1.2.6",
     "@actions/github": "^4.0.0",
-    "@template-tools/template-sync": "^10.7.20",
-    "commander": "^6.2.1",
+    "@template-tools/template-sync": "^10.7.21",
     "github-repository-provider": "^7.21.11"
   },
   "devDependencies": {
