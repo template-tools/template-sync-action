@@ -27,16 +27,11 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
       - run: npm install
-      - run: npm run build --if-present
-      - run: npm run cover --if-present
-      - name: Coveralls Parallel
-        uses: coverallsapp/github-action@master
-        continue-on-error: true
+      - name: Build and push
+        uses: docker/build-push-action@v2
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          flag-name: run-${{ matrix.test_number }}
-          path-to-lcov: build/coverage/lcov.info
-          parallel: true
+          push: true
+          tags: template-tools/template-sync-action:latest
   release:
     needs:
       - test
