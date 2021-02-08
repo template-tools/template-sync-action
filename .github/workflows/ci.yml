@@ -32,6 +32,10 @@ jobs:
         with:
           push: true
           tags: template-tools/template-sync-action:latest
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+          registry: docker.pkg.github.com
+          repository: template-tools/template-sync-action/latest
   release:
     needs:
       - test
