@@ -28,7 +28,7 @@
     "lint:docs": "documentation lint ./index.mjs"
   },
   "dependencies": {
-    "@actions/core": "^1.2.6",
+    "@actions/core": "^1.4.0",
     "@actions/github": "^5.0.0",
     "@template-tools/template-sync": "^10.8.15",
     "github-repository-provider": "^7.22.5"
