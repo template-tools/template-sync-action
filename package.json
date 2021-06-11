@@ -54,6 +54,11 @@
   },
   "homepage": "https://github.com/template-tools/template-sync-action#readme",
   "template": {
+    "properties": {
+      "javascript": {
+        "source": "./index.mjs"
+      }
+    },
     "inheritFrom": [
       "arlac77/template-arlac77-github",
       "arlac77/template-esm-only"
