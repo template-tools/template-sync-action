@@ -28,7 +28,7 @@ jobs:
           node-version: ${{ matrix.node-version }}
       - run: npm install
       - name: Build and push
-        uses: docker/build-push-action@v1
+        uses: docker/build-push-action@v2.6.1
         with:
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
