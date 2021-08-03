@@ -8,3 +8,21 @@
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![Known Vulnerabilities](https://snyk.io/test/github/template-tools/template-sync-action/badge.svg)](https://snyk.io/test/github/template-tools/template-sync-action)
 [![Coverage Status](https://coveralls.io/repos/template-tools/template-sync-action/badge.svg)](https://coveralls.io/github/template-tools/template-sync-action)
+
+## template-sync-action
+
+github action template-sync
+
+# API
+
+# install
+
+With [npm](http://npmjs.org) do:
+
+```shell
+npm install -g template-sync-action
+```
+
+# license
+
+BSD-2-Clause
