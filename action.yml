@@ -5,5 +5,5 @@ inputs:
     description: 'name of the template repository'
     required: false 
 runs:
-  using: 'node12'
+  using: 'node16'
   main: 'index.mjs'
