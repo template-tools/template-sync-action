@@ -28,7 +28,6 @@ try {
   //console.log(`The event payload: ${payload}`);
 
   execute(github.context.payload);
-
 } catch (error) {
   setFailed(error.message);
 }
