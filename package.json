@@ -9,7 +9,7 @@
   "exports": {
     ".": "./dist/index.mjs"
   },
-  "description": "github action template-sync",
+  "description": "github action for template-sync",
   "keywords": [
     "action",
     "github",
