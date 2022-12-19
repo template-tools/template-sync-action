@@ -2,10 +2,12 @@
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 [![Open Bundle](https://bundlejs.com/badge-light.svg)](https://bundlejs.com/?q=template-sync-action)
 [![downloads](http://img.shields.io/npm/dm/template-sync-action.svg?style=flat-square)](https://npmjs.org/package/template-sync-action)
-[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/template-tools/template-sync-action.git)
+[![GitHub Issues](https://img.shields.io/github/issues/template-tools/template-sync-action.svg?style=flat-square)](https://github.com/template-tools/template-sync-action/issues)
+[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Ftemplate-tools%2Ftemplate-sync-action%2Fbadge\&style=flat)](https://actions-badge.atrox.dev/template-tools/template-sync-action/goto)
 [![Styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![Known Vulnerabilities](https://snyk.io/test/github/template-tools/template-sync-action/badge.svg)](https://snyk.io/test/github/template-tools/template-sync-action)
+[![Coverage Status](https://coveralls.io/repos/template-tools/template-sync-action/badge.svg)](https://coveralls.io/github/template-tools/template-sync-action)
 
 ## template-sync-action
 
