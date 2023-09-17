@@ -3,9 +3,7 @@ import github from "@actions/github";
 import { Context } from "@template-tools/template-sync";
 import GithubProvider from "github-repository-provider";
 
-
-async function execute(payload)
-{
+async function execute(payload) {
   const options = {};
   const provider = GithubProvider.initialize(undefined, process.env);
 
