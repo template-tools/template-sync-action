@@ -37,7 +37,7 @@
     "github-repository-provider": "^8.0.28"
   },
   "devDependencies": {
-    "@semantic-release/commit-analyzer": "^11.0.0",
+    "@semantic-release/commit-analyzer": "^11.1.0",
     "@semantic-release/exec": "^6.0.2",
     "@semantic-release/release-notes-generator": "^12.1.0",
     "@vercel/ncc": "^0.38.1",
