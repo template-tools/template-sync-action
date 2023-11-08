@@ -34,7 +34,7 @@
     "@actions/core": "^1.10.1",
     "@actions/github": "^6.0.0",
     "@template-tools/template-sync": "^11.1.36",
-    "github-repository-provider": "^8.0.28"
+    "github-repository-provider": "^8.0.29"
   },
   "devDependencies": {
     "@semantic-release/commit-analyzer": "^11.1.0",
