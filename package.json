@@ -2,7 +2,8 @@
   "name": "template-sync-action",
   "version": "0.0.0-semantic-release",
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "provenance": true
   },
   "main": "./dist/index.mjs",
   "exports": {
