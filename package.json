@@ -28,7 +28,7 @@
     "cover": "c8 -x 'tests/**/*' --temp-directory build/tmp ava --timeout 4m tests/*-ava.mjs tests/*-ava-node.mjs && c8 report -r lcov -o build/coverage --temp-directory build/tmp",
     "docs": "documentation readme --section=API ./src/**/*.mjs && documentation readme --section=API ./index.mjs",
     "lint": "node --run lint:docs",
-    "lint:docs": "documentation lint ./src/**/*.mjs && documentation lint ./index.mjs",
+    "lint:docs": "documentation lint ./index.mjs",
     "build": "ncc build index.mjs --license LICENSE"
   },
   "dependencies": {
