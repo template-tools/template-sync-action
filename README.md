@@ -1,5 +1,5 @@
 [![npm](https://img.shields.io/npm/v/template-sync-action.svg)](https://www.npmjs.com/package/template-sync-action)
-[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://spdx.org/licenses/0BSD.html)
+[![License](https://img.shields.io/badge/License-0BSD-blue.svg)](https://spdx.org/licenses/0BSD.html)
 [![bundlejs](https://deno.bundlejs.com/?q=template-sync-action\&badge=detailed)](https://bundlejs.com/?q=template-sync-action)
 [![downloads](http://img.shields.io/npm/dm/template-sync-action.svg?style=flat-square)](https://npmjs.org/package/template-sync-action)
 [![GitHub Issues](https://img.shields.io/github/issues/template-tools/template-sync-action.svg?style=flat-square)](https://github.com/template-tools/template-sync-action/issues)
