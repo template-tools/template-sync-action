@@ -27,7 +27,7 @@ jobs:
           cache: npm
           cache-dependency-path: package-lock.json
       - name: Build and push
-        uses: docker/build-push-action@v6.11.0
+        uses: docker/build-push-action@v6.12.0
         with:
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
