@@ -34,8 +34,8 @@
   "dependencies": {
     "@actions/core": "^1.11.1",
     "@actions/github": "^6.0.0",
-    "@template-tools/template-sync": "^14.3.24",
-    "github-repository-provider": "^9.0.21"
+    "@template-tools/template-sync": "^14.3.25",
+    "github-repository-provider": "^9.1.0"
   },
   "devDependencies": {
     "@semantic-release/commit-analyzer": "^13.0.1",
