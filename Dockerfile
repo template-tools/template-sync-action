@@ -1,4 +1,4 @@
-FROM node:18
+FROM node:20
 
 # Create app directory
 WORKDIR /usr/src/app
@@ -12,4 +12,3 @@ RUN npm install --only=production
 COPY . .
 
 CMD [ "node", "index.mjs" ]
-
