@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "@actions/core": "^3.0.0",
-    "@actions/github": "^9.0.0",
+    "@actions/github": "^9.1.0",
     "@template-tools/template-sync": "^14.3.52",
     "github-repository-provider": "^10.0.30"
   },
