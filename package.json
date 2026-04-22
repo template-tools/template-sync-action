@@ -33,7 +33,7 @@
     "build": "ncc build index.mjs --license LICENSE"
   },
   "dependencies": {
-    "@actions/core": "^3.0.0",
+    "@actions/core": "^3.0.1",
     "@actions/github": "^9.1.0",
     "@template-tools/template-sync": "^14.3.52",
     "github-repository-provider": "^10.0.30"
